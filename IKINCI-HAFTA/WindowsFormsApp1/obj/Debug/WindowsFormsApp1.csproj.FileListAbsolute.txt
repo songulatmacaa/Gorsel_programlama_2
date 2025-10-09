@@ -1,0 +1,10 @@
+C:\OneDrive\Desktop\Görsel-Programlama-2\IKINCI-HAFTA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\OneDrive\Desktop\Görsel-Programlama-2\IKINCI-HAFTA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\OneDrive\Desktop\Görsel-Programlama-2\IKINCI-HAFTA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\Görsel-Programlama-2\IKINCI-HAFTA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\Görsel-Programlama-2\IKINCI-HAFTA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\OneDrive\Desktop\Görsel-Programlama-2\IKINCI-HAFTA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\OneDrive\Desktop\Görsel-Programlama-2\IKINCI-HAFTA\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\OneDrive\Desktop\Görsel-Programlama-2\IKINCI-HAFTA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\OneDrive\Desktop\Görsel-Programlama-2\IKINCI-HAFTA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\OneDrive\Desktop\Görsel-Programlama-2\IKINCI-HAFTA\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
