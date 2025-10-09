@@ -1,0 +1,10 @@
+C:\OneDrive\Desktop\Hafta3\bin\Debug\Hafta3.exe.config
+C:\OneDrive\Desktop\Hafta3\bin\Debug\Hafta3.exe
+C:\OneDrive\Desktop\Hafta3\bin\Debug\Hafta3.pdb
+C:\OneDrive\Desktop\Hafta3\obj\Debug\Hafta3.csproj.AssemblyReference.cache
+C:\OneDrive\Desktop\Hafta3\obj\Debug\Hafta3.Form1.resources
+C:\OneDrive\Desktop\Hafta3\obj\Debug\Hafta3.Properties.Resources.resources
+C:\OneDrive\Desktop\Hafta3\obj\Debug\Hafta3.csproj.GenerateResource.cache
+C:\OneDrive\Desktop\Hafta3\obj\Debug\Hafta3.csproj.CoreCompileInputs.cache
+C:\OneDrive\Desktop\Hafta3\obj\Debug\Hafta3.exe
+C:\OneDrive\Desktop\Hafta3\obj\Debug\Hafta3.pdb
